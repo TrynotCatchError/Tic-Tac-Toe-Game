@@ -9,8 +9,6 @@ A responsive and interactive implementation of the classic Tic-Tac-Toe game. Bui
 
 ### [🚀 Winner Detection:]
  - Implements algorithms to check for winning conditions or a tie.
- - 
- - 
 
 ### [🚀 Reset and Restart:]
  - Includes controls for restarting the game or going back to the initial screen.
